@@ -555,8 +555,7 @@
               "weight_modifiers": [
                 "(×<b style='color:lime'>1.25</b>) Has Hive Mind Authority",
                 "(×<b style='color:lime'>1.25</b>) One must be true<br/>    •   Has Xenophile Ethic<br/>    •   Has Fanatic Xenophile Ethic",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert",
-                "(×<b style='color:lime'>1.25</b>) Is Necrophage"
+                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
               ],
               "potential": [
                 "One must be true\n    •   Does NOT have Machine Intelligence Authority\n    •   Has Government Civic: Driven Assimilator\n    •   Has Government Civic: Rogue Servitor"
@@ -572,7 +571,6 @@
                   "category": "Biology",
                   "cost": 6000,
                   "feature_unlocks": [
-                    "<b>Building</b>: House of Apotheosis",
                     "<b>Feature : </b>Habitability Modification"
                   ],
                   "is_dangerous": false,
@@ -590,8 +588,7 @@
                   ],
                   "weight_modifiers": [
                     "(×<b style='color:lime'>1.25</b>) Has Hive Mind Authority",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert",
-                    "(×<b style='color:lime'>1.25</b>) Is Necrophage"
+                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
                   ],
                   "potential": [
                     "One must be true\n    •   Does NOT have Machine Intelligence Authority\n    •   Has Government Civic: Driven Assimilator\n    •   Has Government Civic: Rogue Servitor"
@@ -1359,7 +1356,6 @@
           "category": "Military Theory",
           "cost": 2000,
           "feature_unlocks": [
-            "<b>Building</b>: Dread Encampment",
             "<b>Building</b>: Military Academy",
             "Max Occupation Garrisons +2"
           ],
@@ -3711,12 +3707,8 @@
           "feature_unlocks": [
             "<b>Building</b>: Autochthon Monument",
             "<b>Building</b>: Corporate Culture Site",
-            "<b>Building</b>: Sacrificial Temple",
             "<b>Building</b>: Simulation Site",
-            "<b>Building</b>: Temple",
-            "<b>Edict</b>: Sacrifice: Bounty",
-            "<b>Edict</b>: Sacrifice: Harmony",
-            "<b>Edict</b>: Sacrifice: Togetherness"
+            "<b>Building</b>: Temple"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -3822,7 +3814,6 @@
               "category": "Statecraft",
               "cost": 2000,
               "feature_unlocks": [
-                "<b>Building</b>: Grim Holotemple",
                 "<b>Building</b>: Holotemple"
               ],
               "is_dangerous": false,
@@ -3856,8 +3847,7 @@
                   "category": "Statecraft",
                   "cost": 5000,
                   "feature_unlocks": [
-                    "<b>Building</b>: Sacred Nexus",
-                    "<b>Building</b>: Temple of Grand Sacrifice"
+                    "<b>Building</b>: Sacred Nexus"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,

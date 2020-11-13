@@ -3201,7 +3201,7 @@
           "category": "Computing",
           "cost": 1500,
           "feature_unlocks": [
-            "mod_country_ship_archeaological_site_clues_add +2"
+            "Archaeology Skill +2"
           ],
           "is_dangerous": false,
           "is_rare": true,

@@ -565,8 +565,7 @@
                               "weight_modifiers": [
                                 "(×<b style='color:red'>0.0</b>) Has policy Robotic Workers Outlawed",
                                 "(×<b style='color:red'>0.0</b>) Has policy AI Outlawed",
-                                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert<br/>    •   Skill level is greater than 3",
-                                "(×<b style='color:red'>0.33</b>) Is Necrophage"
+                                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert<br/>    •   Skill level is greater than 3"
                               ],
                               "potential": [
                                 "Does NOT have Gestalt Consciousness Ethic"
@@ -5285,8 +5284,7 @@
           "cost": 500,
           "feature_unlocks": [
             "<b>Army</b>: Assault Army\nThese armies can be embarked and used for invasion on other planets.",
-            "<b>Army</b>: Hunter-Killer Army",
-            "<b>Army</b>: Undead Army"
+            "<b>Army</b>: Hunter-Killer Army"
           ],
           "is_dangerous": false,
           "is_rare": false,
